@@ -1,12 +1,7 @@
 # 👋 ¡Hola! Soy Alfredo Bautista Rosas
 
-![QA enginer (3)](https://github.com/user-attachments/assets/5909e99c-f1de-4803-8bd1-351904e0bd56)
+![QA enginer (1)](https://github.com/user-attachments/assets/16167994-9e42-4404-9500-df181ca16e2a)
 
-
-
-### Ingeniero de QA | Especialista en Automatización de Pruebas | Entusiasta de Python
-
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado Ingeniero de QA, especializado en la automatización de pruebas, con experiencia práctica en herramientas como **Selenium WebDriver**, **Postman** y **Python**. Mi objetivo es mejorar la calidad y eficiencia del software mediante prácticas de pruebas minuciosas y estrategias innovadoras de automatización.
 
 ## 🔍 Sobre Mí
 
